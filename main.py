@@ -183,7 +183,7 @@ elif page == "Projects":
             st.markdown("[🌐 Visit Website](https://marketplace-builder-hackathon-two.vercel.app/)", unsafe_allow_html=True)
 
     with cols1[1]:
-        st.image("Capture2.png", caption="SM Collections", use_container_width=True)
+        st.image("Capture2.PNG", caption="SM Collections", use_container_width=True)
         st.subheader("🛍️ SM Collections")
         with st.expander("Description here"):
             st.write("""
@@ -202,7 +202,7 @@ elif page == "Projects":
             st.markdown("[🌐 Visit Website](https://sm-collections-website-with-css.vercel.app/)", unsafe_allow_html=True)
 
     with cols1[2]:
-        st.image("Capture3.png", caption="SM Blog Website", use_container_width=True)
+        st.image("Capture3.PNG", caption="SM Blog Website", use_container_width=True)
         st.subheader("📝 SM Blog Website")
         with st.expander("Description here"):
             st.write("""
@@ -224,7 +224,7 @@ elif page == "Projects":
     cols3 = st.columns(3)
 
     with cols3[0]:
-        st.image("Capture7.png", caption="SM Personal Library Management", use_container_width=True)
+        st.image("Capture7.PNG", caption="SM Personal Library Management", use_container_width=True)
         st.subheader("Personal Library Management")
         with st.expander("📋 Description"):
             st.write(""" The SM Personal Library Management System is a modern, user-friendly Python application developed using Streamlit. It allows users to efficiently manage their personal book collection in a digital format.
@@ -246,7 +246,7 @@ This project reflects your skills in Python, Streamlit, and data handling, offer
         st.markdown("[🌐 Visit Website](https://python-project4-lms.streamlit.app/)")
 
     with cols3[1]:
-        st.image("Capture10.png", caption="SM Password Strength Meter", use_container_width=True)
+        st.image("Capture10.PNG", caption="SM Password Strength Meter", use_container_width=True)
         st.subheader("Password Strength Meter")
         with st.expander("📋 Description"):
             st.write(""" The SM Password Strength Meter is a Streamlit-based Python application designed to help users create strong and secure passwords by evaluating their strength in real-time.
@@ -274,7 +274,7 @@ This project showcases your Python programming, logic building, and UI/UX design
         st.markdown("[🌐 Visit Website](https://sm-python-password-strength-meter.streamlit.app/)")
 
     with cols3[2]:
-        st.image("Capture9.png", caption="SM Unit Converter", use_container_width=True)
+        st.image("Capture9.PNG", caption="SM Unit Converter", use_container_width=True)
         st.subheader("Unit Converter")
         with st.expander("📋 Description"):
             st.write(""" The SM Unit Converter is a simple yet powerful web application built with Python and Streamlit, designed to perform fast and accurate unit conversions across multiple categories.
